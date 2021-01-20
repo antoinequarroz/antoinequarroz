@@ -1,6 +1,5 @@
 # Salut👋
-## Je suis
-## Antoine Quarroz
+## Je suis Antoine Quarroz
 
 Actuellement en formation de médiamaticien, je suis passionné par le développement web et mobile. Je suis développeur web junior depuis environ 2 ans.
 
